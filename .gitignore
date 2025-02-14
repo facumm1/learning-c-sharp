@@ -1,0 +1,9 @@
+# Files
+bin/
+obj/
+
+# Other files
+*.user
+*.suo
+*.cache
+*.log
